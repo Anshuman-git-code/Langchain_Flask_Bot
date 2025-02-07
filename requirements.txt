@@ -1,0 +1,13 @@
+langchain
+flask
+flask-restful
+requests
+beautifulsoup4
+chromadb
+transformers
+datasets
+faiss-cpu
+pyngrok
+langchain-community
+langchain-huggingface
+python-dotenv
